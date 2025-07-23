@@ -182,7 +182,7 @@ const sampleFormFormats = [
     country: 'UK' as const,
     formName: 'Patient Registration Form - UK',
     description: 'UK patient registration form with NHS data',
-    googleFormUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSeuvVMbywpZjOfnH8oAyY96i75PJXvbWj0SAUxrt4YXiSDiGg/viewform',
+    googleFormUrl: 'https://docs.google.com/forms/d/e/ID/viewform',
     isActive: true,
     fieldMappings: [
       { 
@@ -240,7 +240,7 @@ const sampleFormFormats = [
     country: 'US' as const,
     formName: 'Patient Registration Form - US',
     description: 'US hospital patient intake form',
-    googleFormUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSdadxCnUmU8aY162fHMh3Y0ITqbeZFnDoNTWhNYPiMVmff1tw/viewform',
+    googleFormUrl: 'https://docs.google.com/forms/d/e/ID/viewform',
     isActive: true,
     fieldMappings: [
       { 
@@ -298,7 +298,7 @@ const sampleFormFormats = [
     country: 'India' as const,
     formName: 'Patient Registration Form - India',
     description: 'Indian hospital patient registration with Aadhaar',
-    googleFormUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSfiyYoobIF5A1i2PIBtVivteFTPal8RagFGz9y8sedxCJIGMg/viewform',
+    googleFormUrl: 'https://docs.google.com/forms/d/e/ID/viewform',
     isActive: true,
     fieldMappings: [
       { 
@@ -356,7 +356,7 @@ const sampleFormFormats = [
     country: 'Japan' as const,
     formName: 'Patient Registration Form - Japan',
     description: 'Japanese hospital patient registration with National Health Insurance Card Number and Prefecture Code',
-    googleFormUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSdb2Banf506xUyHUBMAfRf9hFHAUDm__V-fbr-jCQGvssw62A/viewform',
+    googleFormUrl: 'https://docs.google.com/forms/d/e/ID/viewform',
     isActive: true,
     fieldMappings: [
       { 
